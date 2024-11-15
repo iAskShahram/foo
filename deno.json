@@ -1,4 +1,7 @@
 {
+  "name": "@pakistan/foo",
+  "version": "0.0.1",
+  "export": "./main.ts",
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
